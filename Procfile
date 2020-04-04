@@ -1,1 +1,1 @@
-worker: python bot_dollar.py $PORT
+web: python bot_dollar.py
